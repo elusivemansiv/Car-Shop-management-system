@@ -1,0 +1,18 @@
+Employee Added: mansib Duration: 8hrs months  Salary :80000.0  Id :kai
+Employee Added: atik Duration: 6.00hrs months  Salary :500.0  Id :LT
+Employee Added: mansib Duration: 8.00hrs months  Salary :800.0  Id :KI
+Employee you got: mansibHe is working here for : 8.00hrs months  Salary :800.0  Id :KI
+Employee Added: Asif Duration: 2.00hrs months  Salary :200.0  Id :PO
+Employee you removed: Asif He worked here for: 2.00hrs  Salary :200.0  Id :PO
+Employee Added: Ahsan Duration: 5.00hrs months  Salary :600.0  Id :FX
+shop you inserted: Avenders He worked here for:   Id :XO
+shop you inserted: Daraz He worked here for:   Id :DP
+Car Added: BMW Speed: 200km months  Salary :800000.0  Id :XD
+Bike you inserted: Fazer Bike Top Speed:   Id :kk
+Car Added: BMW Speed: 300km months  Salary :800000.0  Id :KI
+Car you got: BMWCar Speed : 300km months  Salary :800000.0  Id :KI
+Bike you inserted: Yamaha Bike Top Speed:   Id :FX
+Bike you inserted: PUlsar Bike Top Speed:   Id :Kl
+Car Added: Mercedes Speed: Benz months  Salary :800000.0  Id :UV
+Car Added: Toyota Speed: 280km months  Salary :5000000.0  Id :BB
+Bike you inserted: Malc Bike Top Speed:   Id :665656
